@@ -12,12 +12,12 @@ Highlights
 
 Demo: 
 - Dynamic Replanning from last waypoint
-	 ![1](https://user-images.githubusercontent.com/2005601/226150780-088ee5b3-95b3-4a14-a410-02cced646d53.mp4)
+	 ![1](results/dyn_replan.gif) 
 
 - Obstacle Avoidance 
- 	![2](https://user-images.githubusercontent.com/2005601/226150796-3aa8a498-545a-4628-acc8-7137262f9612.mp4)
+ 	![2](results/static_car.gif)
 
 - Intersection Management
-	![3](https://user-images.githubusercontent.com/2005601/226150877-e10f4820-c39a-4691-9ea0-2adb3a39d9ef.mp4)
+	![3](results/inter.gif)
 
 
