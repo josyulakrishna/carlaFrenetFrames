@@ -11,13 +11,13 @@ Highlights
 - Lane Change, Lane Merge and Intersection Management with Frenet Frames 
 
 Demo: 
-- Dynamic Replanning from last waypoint
+Dynamic Replanning from last waypoint
 	 ![1](results/dyn_replan.gif) 
 
-- Obstacle Avoidance 
+Obstacle Avoidance 
  	![2](results/static_car.gif)
 
-- Intersection Management
+Intersection Management
 	![3](results/inter.gif)
 
 
